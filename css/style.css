@@ -18,3 +18,13 @@ h4 {
  font-style: italic !important;
   
 }
+
+.text{
+ font-family: "futura-pt", sans-serif !important;
+ text-transform: lowercase !important;
+ font-style: italic !important;
+}
+
+h2{
+  font-family: "Tenon", sans-serif !important;
+}
